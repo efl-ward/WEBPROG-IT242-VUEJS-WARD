@@ -17,7 +17,7 @@ export default {
 </script>
 
 <style>
- #app > Saging {
+ .Saging {
     border: dashed black 3px;
     display: inline-block;
     margin: 10px;
